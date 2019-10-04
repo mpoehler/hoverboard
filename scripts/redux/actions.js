@@ -273,7 +273,7 @@ const speakersActions = {
 
     const speakersPromise = new Promise((resolve, reject) => {
       firebase.firestore()
-          .collection('speakers')
+          .collection('generatedSpeakers')
           .orderBy('order', 'asc')
           .get()
           .then((snaps) => {
