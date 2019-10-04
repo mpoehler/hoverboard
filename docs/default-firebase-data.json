@@ -216,9 +216,6 @@
         }
       ],
       "order": 0,
-      "tags": [
-        "android"
-      ],
       "title": "Chief Developer Advocate"
     },
     "nat": {
@@ -236,9 +233,6 @@
           "link": "https://twitter.com/nataliepis",
           "name": "Twitter"
         }
-      ],
-      "tags": [
-        "cloud"
       ],
       "order": 1,
       "title": "Google Developer Expert / Engineering Manager"
@@ -272,9 +266,6 @@
           "link": "https://www.dvt.co.za/",
           "name": "website"
         }
-      ],
-      "tags": [
-        "cloud"
       ]
     },
     "randy": {
@@ -291,9 +282,6 @@
           "link": "https://twitter.com/randygupta",
           "name": "Twitter"
         }
-      ],
-      "tags": [
-        "cloud"
       ],
       "title": "Google Developer Expert / Certified Cloud Architect"
     },
@@ -318,9 +306,6 @@
           "link": "https://pascal.page/",
           "name": "Website"
         }
-      ],
-      "tags": [
-        "cloud"
       ],
       "title": "Google Developer Expert, Freelancer"
     }
