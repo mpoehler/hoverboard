@@ -182,6 +182,17 @@
         "cloud"
       ],
       "title": "Going secure with Go"
+    },
+    "105": {
+      "description": "To be announced",
+      "language": "English",
+      "speakers": [
+        "pascal"
+      ],
+      "tags": [
+        "cloud"
+      ],
+      "title": "TBA"
     }
   },
   "speakers": {
@@ -394,7 +405,7 @@
         },
         {
           "name": "Kjell Otto",
-          "photoUrl": "/images/team/blacksmith_pose_4_3.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-hamburg-29729.appspot.com/o/kjellski.png?alt=media&token=56f4b4bd-b368-46af-8791-05258e4b5a7f",
           "socials": [
             {
               "icon": "twitter",
