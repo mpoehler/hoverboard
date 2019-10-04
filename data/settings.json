@@ -30,9 +30,9 @@
       "label": "Speakers"
     },
     {
-      "route": "sessions",
-      "permalink": "/sessions/",
-      "label": "Sessions"
+      "route": "schedule",
+      "permalink": "/schedule/",
+      "label": "Schedule"
     },
     {
       "route": "team",
