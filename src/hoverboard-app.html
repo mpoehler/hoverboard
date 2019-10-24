@@ -211,26 +211,30 @@
             data-route="home"
             data-path="pages/home-page.html"
           ></home-page>
-          <!-- <blog-page
+          <!--
+          <blog-page
             data-route="blog"
             data-path="pages/blog-page.html"
             route="[[subroute]]"
           ></blog-page>
+          -->
           <schedule-page
             data-route="schedule"
             data-path="pages/schedule-page.html"
             route="[[subroute]]"
-          ></schedule-page> -->
+          ></schedule-page>
           <speakers-page
             data-route="speakers"
             data-path="pages/speakers-page.html"
             route="[[subroute]]"
           ></speakers-page>
-          <!-- <previous-speakers-page
+          <!--
+          <previous-speakers-page
             data-route="previous-speakers"
             data-path="pages/previous-speakers-page.html"
             route="[[subroute]]"
-          ></previous-speakers-page> -->
+          ></previous-speakers-page>
+          -->
           <team-page
             data-route="team"
             data-path="pages/team-page.html"
@@ -264,6 +268,7 @@
       disable-controls="[[!ui.videoDialog.disableControls]]"
       fit fixed-top
     ></video-dialog>
+    -->
 
     <speaker-details
       opened="[[dialogs.speaker.isOpened]]"
@@ -272,19 +277,21 @@
       no-cancel-on-outside-click="[[viewport.isPhone]]"
     ></speaker-details>
 
+    <!--
     <previous-speaker-details
       opened="[[dialogs.previousSpeaker.isOpened]]"
       speaker="[[dialogs.previousSpeaker.data]]"
       with-backdrop="[[viewport.isTabletPlus]]"
       no-cancel-on-outside-click="[[viewport.isPhone]]"
     ></previous-speaker-details>
+    -->
 
     <session-details
       opened="[[dialogs.session.isOpened]]"
       session="[[dialogs.session.data]]"
       with-backdrop="[[viewport.isTabletPlus]]"
       no-cancel-on-outside-click="[[viewport.isPhone]]"
-    ></session-details> -->
+    ></session-details>
 
     <subscribe-dialog
       opened="[[dialogs.subscribe.isOpened]]"

@@ -30,6 +30,11 @@
       "label": "Speakers"
     },
     {
+      "route": "schedule",
+      "permalink": "/schedule/",
+      "label": "Schedule"
+    },
+    {
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
@@ -46,12 +51,21 @@
     },
     "speakers": {
       "title": "Speakers",
-      "description": "",
+      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
-    },	
+    },
+    "schedule": {
+      "title": "Schedule",
+      "metaDescription": "Choose your sessions to visit",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
     "team": {
       "title": "Team",
       "metaDescription": "Get more info about organizers",
